@@ -1,0 +1,42 @@
+_repo: True-Stories-of-Girl-Heroines_40508
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sherie, E. F.
+    gutenberg_agent_id: '40666'
+    url: http://www.gutenberg.org/2009/agents/40666
+covers:
+- cover_type: archival
+  image_path: 40508-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Everett-Green, E. (Evelyn)
+    - Dare, Evelyn
+    - Adair, Cecil
+    - Ward, E.
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: ''
+gutenberg_issued: '2012-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Biography'
+- !lcsh 'Women -- Biography'
+- !lcc 'CT'
+tableOfContents: Inez Arroya -- Catharine the Rose -- Elsje van Houwening -- Grizel
+  Cochrane -- Eva von Gross -- Emma Fitz-Osborn -- Elizabeth Stuart -- Charlotte Honeyman
+  -- Mary Bridges -- Theresa Duroc -- Jane Lane -- Helen Kottenner -- Maid Lillyard
+  -- Margaret Wilson -- Agostina of Zaragoza -- Agnes Beaumont -- Hannah Hewling --
+  Mona Drummond -- Jessy Varcoe -- Ursula Pendrill.
+title: True Stories of Girl Heroines
+url: http://www.gutenberg.org/ebooks/40508
